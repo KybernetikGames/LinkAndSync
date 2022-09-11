@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0637905748364e43be9d8d2ab49a5d8, type: 3}
+  m_Name: LinkAndSyncSettings
+  m_EditorClassIdentifier: 
+  _EnableOverlay: 1
+  _OverlayIcon: {fileID: 2800000, guid: f21c208470b97e644a9a4b3da8083d79, type: 3}
+  _OverlayAttentionIcon: {fileID: 2800000, guid: e6a53e6322459134fa90e8da8ad9b3b8,
+    type: 3}
+  _WindowIconDark: {fileID: 2800000, guid: dbfcb19c607624a49af6235677e7c5a0, type: 3}
+  _WindowIconLight: {fileID: 2800000, guid: b9ee40d9bd5a0f445b9f938af99f519e, type: 3}
+  _EnableAutomaticWarning: 1
+  _NotifyViaLog: 1
+  _ShowConfirmationWindow: 1

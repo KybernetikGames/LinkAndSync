@@ -1,0 +1,13 @@
+{
+  "name": "com.kybernetik.link-and-sync",
+  "displayName": "Link & Sync",
+  "version": "3.1.0",
+  "unity": "2019.4",
+  "description": "Link & Sync is a tool for importing and exporting assets and easily synchronizing changes when they occur.",
+  "author": {
+    "name": "Kybernetik",
+    "email": "mail@kybernetik.com.au",
+    "url": "https://kybernetik.com.au"
+  },
+  "hideInEditor": false
+}
