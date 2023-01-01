@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2da44dfcb64c32345a555fb5754dd244, type: 3}
+  m_Name: PushToExternal
+  m_EditorClassIdentifier: 
+  _ExternalDirectories:
+  - Source Code/Link and Sync/Tests/Push To
+  - Source Code/Link and Sync/Tests/Push To 2
+  _Trigger: 0
+  _Direction: 1
+  _LastSync: 637949544453262522
+  _Color: {r: 0.9701522, g: 1, b: 0.25098038, a: 1}
+  _Exclusions:
+  - Exclude Folder
+  - Some Files/Exclude File.txt
+  _SynchronizedPaths:
+  - Empty Folder
+  - Empty Folder.meta
+  - New Folder
+  - New Folder.meta
+  - New Folder/New Material.mat
+  - New Folder/New Material.mat.meta
+  - Some Files
+  - Some Files.meta
+  - Some Files/File 1.txt
+  - Some Files/File 1.txt.meta
+  - Some Files/File 2.txt
+  - Some Files/File 2.txt.meta
+  - Some Files/File 3.txt
+  - Some Files/File 3.txt.meta
+  - Some Files/More Files
+  - Some Files/More Files.meta
+  - Some Files/More Files/File A.txt
+  - Some Files/More Files/File A.txt.meta
+  - Some Files/More Files/File B.txt
+  - Some Files/More Files/File B.txt.meta

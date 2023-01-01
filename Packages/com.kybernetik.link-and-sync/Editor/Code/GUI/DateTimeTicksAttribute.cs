@@ -1,4 +1,4 @@
-﻿// Link & Sync // Copyright 2022 Kybernetik //
+﻿// Link & Sync // Copyright 2023 Kybernetik //
 
 using System;
 using UnityEditor;
